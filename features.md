@@ -25,7 +25,7 @@
  - Random Hats
  - Random Skins
  - Random Pets
- - [Everyone's Name](names.md)
+ - [Everyone's Name](docs/names.md)
  - Unlock Skins
  - Unlock Hats
  - Unlock Pets
